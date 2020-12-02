@@ -157,3 +157,7 @@ resp body:
   "capes" : [ ] //if someone with a cape account could do this and tell me it would be much appreciated
 }
 ```
+
+**API EXAMPLES**
+Java
+NodeJS
